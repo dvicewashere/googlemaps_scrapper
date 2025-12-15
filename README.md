@@ -100,7 +100,7 @@ python main.py
 ## 🎥 Uygulama Tanıtımı
 
 <p align="center">
-  <img src="images/tanıtım.gif" width="800">
+  <img src="images/revizev2.gif" width="800">
 </p>
 
 ---
